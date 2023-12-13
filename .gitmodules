@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "TaxaNorm"]
+	path = TaxaNorm
+	url = https://github.com/wangziyue57/taxanorm
